@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "1c890ba32bfb25eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d426314335c5f6c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ab54c262dc78785",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/articles/Homepage Positioning for B2B Software Startups 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Homepage Positioning for B2B Software Startups 6"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dce46b79b1ab4137",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f23d5dc35414f7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e29c19cbf1f7d3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "804158abeb24b8bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7bc0e8a14ca6b1ee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "82f43ed67539eb08",
+    "type": "split",
+    "children": [
+      {
+        "id": "14f4906d4fb37b2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba247ed87f5746ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "raw/articles/Homepage Positioning for B2B Software Startups 6.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Homepage Positioning for B2B Software Startups 6"
+            }
+          },
+          {
+            "id": "abd6b38ddc287219",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "raw/articles/Homepage Positioning for B2B Software Startups 6.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Homepage Positioning for B2B Software Startups 6"
+            }
+          },
+          {
+            "id": "90ab51ab1b3fe4b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "63e29d1f21c79e8e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "687f5e71084350f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "raw/articles/Homepage Positioning for B2B Software Startups 6.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Homepage Positioning for B2B Software Startups 6"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9ab54c262dc78785",
+  "lastOpenFiles": [
+    "raw/articles/Homepage Positioning for B2B Software Startups 5.md",
+    "raw/articles/Homepage Positioning for B2B Software Startups 6.md",
+    "raw/articles/Homepage Positioning for B2B Software Startups 4.md",
+    "raw/articles/Homepage Positioning for B2B Software Startups 3.md",
+    "raw/articles/Homepage Positioning for B2B Software Startups 2.md",
+    "raw/articles/Homepage Positioning for B2B Software Startups 1.md",
+    "raw/articles/Homepage Positioning for B2B Software Startups.md",
+    "wiki/_index.md",
+    "wiki/engagements/problem-pillar-formula.md",
+    "wiki/engagements/hero-problem-formula.md",
+    "wiki/engagements/hero-problem-anatomy.md",
+    "wiki/clients/numeric.md",
+    "raw/clients/numeric/numeric-discovery-brief.md",
+    "raw/clients/numeric",
+    "wiki/engagements/category-creation-patterns.md",
+    "COMPILER.md",
+    "wiki/concepts/hero-problem-framing.md",
+    "raw/clients-jane/jane-messaging-framework-final.md",
+    "raw/frameworks/POV Instructions from Harmonic Sytle.md",
+    "raw/frameworks/interview-guide-ceo-template.md",
+    "raw/articles/Post  LinkedIn 1.md",
+    "wiki/clients/unity-games.md",
+    "wiki/clients/unity-industry.md",
+    "wiki/clients/teamohana.md",
+    "wiki/clients/snappy.md",
+    "wiki/clients/jane.md",
+    "wiki/clients/general-legal.md",
+    "raw/clients-unity-industry",
+    "raw/clients-unity-games",
+    "raw/clients-teamohana",
+    "raw/clients-snappy",
+    "raw/clients-jane",
+    "raw/clients-general-legal",
+    "raw/clients-eudia",
+    "raw/clients-brightedge",
+    "raw/clients-avoca"
+  ]
+}

@@ -55,7 +55,8 @@ It can be hard for people to schedule care: Making the time to find and get care
 Patients can’t easily access their health information: When health records, messages, or visit summaries are buried in emails or scattered across apps, managing their care is harder than it should be.
 No formal business training: You were trained to care for people, not to manage finances, build systems, or scale a business. And now you’re expected to do it all.
 
-The emotional weight of care:You give so much care to your patients, but you need someone to be there for you when running the business gets hard.
+The emotional weight of care:
+You give so much care to your patients, but you need someone to be there for you when running the business gets hard.
 
 Frustrating, slow, or inaccessible tech support: Other platforms lean heavily on bots or gate support to their most expensive plans, not real people who understand the unique realities of running a clinic.
 
@@ -125,7 +126,8 @@ We pick up the phone: You don’t have to wait hours or days to receive a canned
 
 Feel confident and supported from day one: We offer free and unlimited onboarding support and data importing so you feel supported from your very first day with Jane. 
 Features and Capabilities
-Other required capabilities
+
+Other required capabilities
 Scheduling 
 Patient Forms & Reminders
 Payments 
