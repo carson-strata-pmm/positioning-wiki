@@ -1,7 +1,7 @@
 # Strata Wiki Index
 
 _Last compiled: 2026-06-10_
-_Total articles: 23_
+_Total articles: 24_
 
 ## Concepts (8)
 
@@ -32,7 +32,7 @@ _Total articles: 23_
 | [[clients/numeric]] | TBD (discovery phase) | Discovery Brief | Category creator (recommended) |
 | [[clients/unity-games]] | "The Success Gap" | Messaging Framework | Head-to-head |
 
-## Engagements (5)
+## Engagements (6)
 
 | Article | Summary | Related Clients |
 |---------|---------|-----------------|
@@ -41,9 +41,36 @@ _Total articles: 23_
 | [[engagements/hero-problem-formula]] | The universal hero problem formula with archetype taxonomy, naming conventions, quality tests, and step-by-step guide for new engagements. | All clients |
 | [[engagements/problem-pillar-formula]] | How pain pillars decompose the hero problem: five archetypes, sequencing logic, mirroring pattern, and construction formula. | All clients |
 | [[engagements/homepage-before-after-patterns]] | Cross-example analysis of 7 B2B homepage repositioning examples: pattern taxonomy (6 change types), universal positioning formula, weak vs. strong language patterns. | CommandBar, LoneScale, UserGems, Altura, DinMo, Concierge AI, Omnibound |
+| [[engagements/homepage-framework-mapping]] | Reverse-engineering 7 homepage examples against the Strata messaging framework. Maps determinable layers (POV, category stance, ICP) and marks gaps. Key finding: homepage repositioning most often targets opening layers (hero problem, POV, category). | CommandBar, LoneScale, UserGems, Altura, DinMo, Concierge AI, Omnibound |
 
 _Future candidates:_
 - AI-native positioning patterns (Agency, General Legal, Eudia, Avoca)
 - Owner-operator messaging patterns (Avoca, Jane)
 - Dual-narrative / marketplace messaging (Eudia, Agency)
 - Proof point maturity across engagements
+
+## Industries & Categories Represented
+
+_Coverage map across client engagements and homepage corpus. Update when new raw material is added._
+
+| Industry | Category | Stage | Primary Buyer | Source |
+|----------|----------|-------|---------------|--------|
+| Home Services | AI Front Office Platform | Series B | Owner-Operator (CEO/GM) | Client: Avoca |
+| Customer Success / AI | AI Customer Agent Platform | Early-stage | CEO (AI-native), CRO | Client: Agency |
+| Legal Tech | Augmented Intelligence Platform (AIP) | Growth | CLO / Head of Legal | Client: Eudia |
+| Legal Tech | Augmented Law Firm (ALF) | Growth | Law Firm Partner | Client: Eudia (supply side) |
+| MarTech / SEO | SEO / Discovery Optimization Platform | Enterprise (mature) | SEO/Organic Marketing Lead | Client: BrightEdge |
+| Legal Tech | AI-Native Law Firm | Early-stage | General Counsel, Founder/CEO | Client: General Legal |
+| Health & Wellness | Practice Management / EMR | Growth | Clinic Owner-Practitioner | Client: Jane |
+| HR Tech | Employee Gifting Platform | Growth | HR Leader | Client: Snappy |
+| HR Tech / FinTech | Headcount Management Platform | Series B | VP Finance / Head of FP&A | Client: TeamOhana |
+| Industrial / Manufacturing | 3D Collaboration Platform | Enterprise | VP Manufacturing, VP R&D | Client: Unity Industry |
+| Gaming | Game Development Platform | Enterprise | Game Developer, CMO/VP Growth | Client: Unity Games |
+| FinTech / Accounting | Accounting Intelligence Platform | Series B | Controller, CFO | Client: Numeric |
+| Sales Tech | AI Bid & Tender Management | Unknown | Sales/Procurement (inferred) | Homepage: Altura |
+| Sales Tech / MarTech | AI for Outbound | Unknown | Sales/Marketing (inferred) | Homepage: UserGems |
+| Product Management Tech | Digital Adoption Tools | Unknown | Product Manager (inferred) | Homepage: CommandBar |
+| MarTech | CDP (Customer Data Platform) | Seed/Series A ($7M) | Marketer (inferred) | Homepage: DinMo |
+| Sales Tech | Sales Intelligence | Unknown | Sales (inferred) | Homepage: LoneScale |
+| AI / MarTech | AI Answer Engine | Unknown | Marketing/Support (inferred) | Homepage: Concierge AI |
+| MarTech | AI Content Marketing Platform | Unknown | B2B Marketer (inferred) | Homepage: Omnibound |
