@@ -182,7 +182,6 @@ The strongest hero problems in the corpus (Agency, Eudia, TeamOhana) combine two
 ## Related Concepts
 - [[concepts/hero-problem-framing]] -- the concept article this analysis is built on
 - [[concepts/pov-opening-strategies]] -- opening strategies build on the hero problem archetype
-- [[concepts/customer-language-capture]] -- buyer language is the raw material for hero problem naming
 - [[engagements/hero-problem-formula]] -- the applied formula and engagement guide
 
 ## Related Clients

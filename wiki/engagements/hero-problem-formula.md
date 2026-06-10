@@ -218,7 +218,6 @@ The name should use words the buyer would use, not words the vendor would use. I
 ## Related Concepts
 - [[concepts/hero-problem-framing]] -- the concept article with universal patterns section
 - [[concepts/pov-opening-strategies]] -- the opening strategy builds on the hero problem archetype
-- [[concepts/customer-language-capture]] -- buyer language is the raw material for naming
 - [[concepts/category-positioning]] -- the hero problem often determines the category stance
 - [[engagements/hero-problem-anatomy]] -- the full cross-client analysis this formula is derived from
 

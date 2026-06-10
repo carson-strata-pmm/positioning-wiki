@@ -50,7 +50,6 @@ Structured comparisons that prove positioning claims.
 - [[hero-problem-framing]] — industry stats validate the hero problem's reality
 - [[messaging-hierarchy]] — proof points sit at the base of the hierarchy, supporting everything above
 - [[pov-opening-strategies]] — "surface a hidden cost" openings depend on strong proof points
-- [[customer-language-capture]] — customer quotes are both proof points and language capture
 
 ## Related Clients
 - [[clients/avoca]] — strongest proof point library (multiple named customers, hard metrics)

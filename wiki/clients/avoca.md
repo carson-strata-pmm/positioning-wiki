@@ -53,4 +53,3 @@ Head-to-head competitor positioning. Differentiates vs. point solutions (Broccol
 - [[concepts/icp-signal-patterns]] — owner-operator archetype
 - [[concepts/proof-point-patterns]] — strongest proof point library
 - [[concepts/messaging-hierarchy]] — clean 3-pillar architecture
-- [[concepts/customer-language-capture]] — co-founder interview as discovery tool

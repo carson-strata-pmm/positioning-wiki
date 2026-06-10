@@ -80,5 +80,4 @@ The "Augmented" branding is deliberately chosen for consistency (Augmented Intel
 - [[concepts/category-positioning]] — dual category creator (AIP + ALF)
 - [[concepts/messaging-hierarchy]] — most complex multi-document architecture
 - [[concepts/proof-point-patterns]] — strong financial proof and industry stats
-- [[concepts/customer-language-capture]] — brand voice tailored to skeptical legal audience
 - [[concepts/icp-signal-patterns]] — dual marketplace (CLO demand + partner supply)

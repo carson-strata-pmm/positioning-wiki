@@ -53,7 +53,6 @@ Head-to-head competitor in the practice management / EMR space. Differentiates o
 
 ## Related Concepts
 - [[concepts/hero-problem-framing]] — emotional/identity-level framing
-- [[concepts/customer-language-capture]] — empathetic, practitioner-first language
 - [[concepts/icp-signal-patterns]] — owner-operator archetype (similar to Avoca)
 - [[concepts/messaging-hierarchy]] — iterative pillar refinement visible across versions
 - [[concepts/proof-point-patterns]] — significant proof point gap

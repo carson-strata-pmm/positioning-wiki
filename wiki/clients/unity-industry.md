@@ -66,5 +66,4 @@ Differentiates on three axes:
 - [[concepts/hero-problem-framing]] — "The Reality Gap" (perception gap framing)
 - [[concepts/pov-opening-strategies]] — market reframe with philosophical opening
 - [[concepts/category-positioning]] — category redefiner (3D collaboration platform)
-- [[concepts/customer-language-capture]] — stakeholder interviews shaped narrative
 - [[concepts/messaging-hierarchy]] — POV narrative as standalone creative piece

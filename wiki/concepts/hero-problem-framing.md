@@ -77,7 +77,6 @@ HERO PROBLEM = Named Tension + Structural Cause + Hidden Consequence
 
 ## Related Concepts
 - [[pov-opening-strategies]] — the hero problem is the setup; the opening strategy is the move that follows
-- [[customer-language-capture]] — hero problems are strongest when phrased in the buyer's own words
 - [[category-positioning]] — the hero problem often defines whether the client is creating a new category or repositioning in an existing one
 - [[messaging-hierarchy]] — the hero problem sits at the top of the messaging hierarchy
 - [[engagements/hero-problem-anatomy]] — full cross-client analysis of problem framing patterns

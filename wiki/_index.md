@@ -1,20 +1,28 @@
 # Strata Wiki Index
 
 _Last compiled: 2026-06-10_
-_Total articles: 24_
+_Total articles: 29_
 
-## Concepts (8)
+## Concepts (7)
 
 | Article | Summary | Related Clients |
 |---------|---------|-----------------|
-| [[concepts/hero-problem-framing]] | How Strata names and frames the single systemic problem that anchors a narrative. Includes a table of all 10 named hero problems, universal patterns (archetypes, formula, quality tiers). | Avoca, Agency, Eudia, TeamOhana, Unity Industry, Unity Games, Jane, BrightEdge, General Legal, Snappy |
-| [[concepts/pov-opening-strategies]] | The rhetorical moves a narrative makes before introducing the product: indict the status quo, name a paradox, surface a hidden cost, reframe the market, invoke an inevitable future. | Eudia, Agency, Avoca, BrightEdge, Unity Industry, General Legal, TeamOhana |
-| [[concepts/icp-signal-patterns]] | Recurring buyer archetypes, trigger events, and segmentation patterns across engagements. Covers buyer roles, stage signals, and trigger events. | Avoca, Agency, Eudia, TeamOhana, Unity Industry, Jane, General Legal |
-| [[concepts/category-positioning]] | How clients define their competitive context: category creation, redefinition, or head-to-head competition. Includes differentiation table patterns. | Eudia, TeamOhana, Agency, BrightEdge, General Legal, Avoca, Unity Games, Unity Industry |
-| [[concepts/messaging-hierarchy]] | The standard Strata architecture: POV > Hero Problem > Pain Pillars > Solution > Value Pillars > Outcomes > Proof. Covers the 3-pillar pattern, document types, and problem pillar patterns (archetypes, sequencing, mirroring, formula). | Avoca, Eudia, Agency, TeamOhana, Unity Industry, Unity Games |
-| [[concepts/proof-point-patterns]] | Types of evidence used to make messaging credible: ROI metrics, operational stats, customer quotes, industry data, before/after scenarios, differentiation tables. Identifies proof point gaps. | Avoca, TeamOhana, Eudia, Snappy, Jane, General Legal |
-| [[concepts/customer-language-capture]] | The practice of preserving exact buyer language from interviews and using it as raw material for messaging. Covers interview methodology and pain language patterns. | Avoca, Unity Industry, Eudia, Jane, TeamOhana |
-| [[concepts/homepage-positioning]] | How to make a B2B homepage instantly communicate problem, product, and differentiation. Includes common before mistakes, strategic fix moves, and a 7-dimension scoring rubric. Drawn from 7 Fletch before/after examples. | CommandBar, LoneScale, UserGems, Altura, DinMo, Concierge AI, Omnibound |
+| [[concepts/hero-problem-framing]] | How Strata names and frames the single systemic problem that anchors a narrative. Includes all 10 named hero problems, five archetypes, universal formula, quality tiers, and language patterns. | All clients |
+| [[concepts/category-positioning]] | How clients define their competitive context: category creation, redefinition, or head-to-head. Includes differentiation table patterns and the named enemy principle. | Eudia, TeamOhana, Agency, BrightEdge, General Legal, Avoca, Unity Games, Unity Industry |
+| [[concepts/pov-opening-strategies]] | The five rhetorical moves a narrative makes before introducing the product: indict the status quo, name a paradox, surface a hidden cost, reframe the market, invoke an inevitable future. | Eudia, Agency, Avoca, BrightEdge, Unity Industry, General Legal, TeamOhana |
+| [[concepts/icp-signal-patterns]] | Buyer archetypes (owner-operator, functional VP, C-suite, technical practitioner, cross-functional pair, transformation leader), trigger event taxonomy, stage-based segmentation guide, and multi-buyer engagement patterns. | All clients |
+| [[concepts/messaging-hierarchy]] | The complete Strata architecture: 11 layers from POV through proof points. Layer-by-layer construction guide with complete pillar maps, document types, brand voice patterns, and proof maturity assessment across all clients. | All clients |
+| [[concepts/proof-point-patterns]] | Types of evidence used to make messaging credible: ROI metrics, operational stats, customer quotes, industry data, before/after scenarios, differentiation tables. Identifies proof point gaps across engagements. | Avoca, TeamOhana, Eudia, Snappy, Jane, General Legal |
+| [[concepts/homepage-positioning]] | How to make a B2B homepage communicate problem, product, and differentiation. Common before mistakes, strategic fix moves, and a 7-dimension scoring rubric. Drawn from 7 Fletch before/after examples. | CommandBar, LoneScale, UserGems, Altura, DinMo, Concierge AI, Omnibound |
+
+## Playbooks (4)
+
+| Playbook | Summary | Key Inputs |
+|----------|---------|------------|
+| [[playbooks/hero-problem-playbook]] | 7-step guide: identify tension, validate structural cause, quantify consequence, select archetype, name it, apply quality tests, validate in buyer language. Includes archetype selection guide and naming conventions. | Discovery interviews, competitive landscape, ICP hypothesis |
+| [[playbooks/category-creation-playbook]] | 7-step guide: name systemic problem, indict existing approaches, draw bright line, name category, layer opening strategies, build differentiation architecture, validate with proof. | Validated hero problem, bright line concept, named enemy |
+| [[playbooks/problem-pillar-playbook]] | 6-step guide: identify dimensions, sequence upstream-to-downstream, build cause-consequence stacks, name pillars, build value pillars by inversion, validate with quality tests. | Named hero problem, discovery data, target buyer |
+| [[playbooks/homepage-review-playbook]] | 6-step guide: score on 7 dimensions, identify weakest areas, check universal formula, audit for common mistakes, write recommendations, validate page architecture. | Current homepage, target buyer, messaging framework (optional) |
 
 ## Clients (11)
 
@@ -32,16 +40,15 @@ _Total articles: 24_
 | [[clients/numeric]] | TBD (discovery phase) | Discovery Brief | Category creator (recommended) |
 | [[clients/unity-games]] | "The Success Gap" | Messaging Framework | Head-to-head |
 
-## Engagements (6)
+## Engagements (5)
 
 | Article | Summary | Related Clients |
 |---------|---------|-----------------|
+| [[engagements/hero-problem-anatomy]] | Deep analysis of problem framing patterns across all 10 engagements: structural commonalities, five archetypes, language patterns, quality tiers, universal formula. | All clients |
 | [[engagements/category-creation-patterns]] | Cross-client analysis of hero problems, opening strategies, and the shared playbook across category creators. | Agency, Eudia, TeamOhana |
-| [[engagements/hero-problem-anatomy]] | Deep analysis of problem framing patterns across all 10 engagements: structural commonalities, archetypes, language patterns, quality tiers. | All clients |
-| [[engagements/hero-problem-formula]] | The universal hero problem formula with archetype taxonomy, naming conventions, quality tests, and step-by-step guide for new engagements. | All clients |
-| [[engagements/problem-pillar-formula]] | How pain pillars decompose the hero problem: five archetypes, sequencing logic, mirroring pattern, and construction formula. | All clients |
+| [[engagements/problem-pillar-formula]] | How pain pillars decompose the hero problem: five archetypes, sequencing logic, mirroring pattern, naming conventions, and quality tiers. | All clients |
 | [[engagements/homepage-before-after-patterns]] | Cross-example analysis of 7 B2B homepage repositioning examples: pattern taxonomy (6 change types), universal positioning formula, weak vs. strong language patterns. | CommandBar, LoneScale, UserGems, Altura, DinMo, Concierge AI, Omnibound |
-| [[engagements/homepage-framework-mapping]] | Reverse-engineering 7 homepage examples against the Strata messaging framework. Maps determinable layers (POV, category stance, ICP) and marks gaps. Key finding: homepage repositioning most often targets opening layers (hero problem, POV, category). | CommandBar, LoneScale, UserGems, Altura, DinMo, Concierge AI, Omnibound |
+| [[engagements/homepage-framework-mapping]] | Reverse-engineering 7 homepage examples against the Strata messaging framework. Maps determinable layers and marks gaps. Key finding: homepage repositioning most often targets opening layers. | CommandBar, LoneScale, UserGems, Altura, DinMo, Concierge AI, Omnibound |
 
 _Future candidates:_
 - AI-native positioning patterns (Agency, General Legal, Eudia, Avoca)
