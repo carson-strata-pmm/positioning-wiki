@@ -1,13 +1,13 @@
 # Strata Wiki Index
 
 _Last compiled: 2026-06-09_
-_Total articles: 17_
+_Total articles: 20_
 
 ## Concepts (7)
 
 | Article | Summary | Related Clients |
 |---------|---------|-----------------|
-| [[concepts/hero-problem-framing]] | How Strata names and frames the single systemic problem that anchors a narrative. Includes a table of all 10 named hero problems. | Avoca, Agency, Eudia, TeamOhana, Unity Industry, Unity Games, Jane, BrightEdge, General Legal, Snappy |
+| [[concepts/hero-problem-framing]] | How Strata names and frames the single systemic problem that anchors a narrative. Includes a table of all 10 named hero problems, universal patterns (archetypes, formula, quality tiers). | Avoca, Agency, Eudia, TeamOhana, Unity Industry, Unity Games, Jane, BrightEdge, General Legal, Snappy |
 | [[concepts/pov-opening-strategies]] | The rhetorical moves a narrative makes before introducing the product: indict the status quo, name a paradox, surface a hidden cost, reframe the market, invoke an inevitable future. | Eudia, Agency, Avoca, BrightEdge, Unity Industry, General Legal, TeamOhana |
 | [[concepts/icp-signal-patterns]] | Recurring buyer archetypes, trigger events, and segmentation patterns across engagements. Covers buyer roles, stage signals, and trigger events. | Avoca, Agency, Eudia, TeamOhana, Unity Industry, Jane, General Legal |
 | [[concepts/category-positioning]] | How clients define their competitive context: category creation, redefinition, or head-to-head competition. Includes differentiation table patterns. | Eudia, TeamOhana, Agency, BrightEdge, General Legal, Avoca, Unity Games, Unity Industry |
@@ -15,7 +15,7 @@ _Total articles: 17_
 | [[concepts/proof-point-patterns]] | Types of evidence used to make messaging credible: ROI metrics, operational stats, customer quotes, industry data, before/after scenarios, differentiation tables. Identifies proof point gaps. | Avoca, TeamOhana, Eudia, Snappy, Jane, General Legal |
 | [[concepts/customer-language-capture]] | The practice of preserving exact buyer language from interviews and using it as raw material for messaging. Covers interview methodology and pain language patterns. | Avoca, Unity Industry, Eudia, Jane, TeamOhana |
 
-## Clients (10)
+## Clients (11)
 
 | Client | Hero Problem | Deliverables | Category Stance |
 |--------|-------------|--------------|-----------------|
@@ -28,12 +28,18 @@ _Total articles: 17_
 | [[clients/snappy]] | "Ad hoc gifting" | HR Messaging Framework | Head-to-head |
 | [[clients/teamohana]] | "The Headcount Headache" | Messaging Framework (final), Messaging Framework (draft) | Category creator |
 | [[clients/unity-industry]] | "The Reality Gap" | POV Narrative, Messaging Framework, CEO Interview, Stakeholder Interviews, Meeting Notes (x2) | Category redefiner |
+| [[clients/numeric]] | TBD (discovery phase) | Discovery Brief | Category creator (recommended) |
 | [[clients/unity-games]] | "The Success Gap" | Messaging Framework | Head-to-head |
 
-## Engagements (0)
+## Engagements (3)
 
-_No cross-client pattern analysis articles yet. Future candidates:_
-- Category creation patterns (Eudia, TeamOhana, Agency)
+| Article | Summary | Related Clients |
+|---------|---------|-----------------|
+| [[engagements/category-creation-patterns]] | Cross-client analysis of hero problems, opening strategies, and the shared playbook across category creators. | Agency, Eudia, TeamOhana |
+| [[engagements/hero-problem-anatomy]] | Deep analysis of problem framing patterns across all 10 engagements: structural commonalities, archetypes, language patterns, quality tiers. | All clients |
+| [[engagements/hero-problem-formula]] | The universal hero problem formula with archetype taxonomy, naming conventions, quality tests, and step-by-step guide for new engagements. | All clients |
+
+_Future candidates:_
 - AI-native positioning patterns (Agency, General Legal, Eudia, Avoca)
 - Owner-operator messaging patterns (Avoca, Jane)
 - Dual-narrative / marketplace messaging (Eudia, Agency)

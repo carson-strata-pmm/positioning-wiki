@@ -31,11 +31,57 @@ The hero problem is the single, named problem that anchors an entire narrative. 
 - **The hero problem is not the product pitch.** It must resonate *before* the product is introduced. If it only makes sense after hearing the solution, it's too product-centric.
 - **Revenue, cost, risk cascade.** Every hero problem connects to measurable negative consequences. This bridges emotional resonance with economic urgency.
 
+## Universal Patterns
+
+_Derived from cross-client analysis across all 10 completed engagements. See [[engagements/hero-problem-anatomy]] for the full analysis and [[engagements/hero-problem-formula]] for the applied framework._
+
+### The Three-Layer Structure
+Every hero problem operates on three layers:
+1. **Named tension:** A forced trade-off between two things the buyer cares about (e.g., speed vs. risk, scale vs. intimacy, care vs. business)
+2. **Structural cause:** The reason the problem can't be solved by trying harder -- the architecture of the operating model, tool landscape, or market creates the tension
+3. **Hidden consequence:** A specific cost the buyer has been tolerating because they assumed it was the cost of doing business
+
+### The Five Archetypes
+
+| Archetype | Pattern | Model Client |
+|-----------|---------|-------------|
+| **Paradox** | The thing you're doing to fix the problem is making it worse | Agency, Eudia |
+| **Gap** | Two things that should be connected are separated | Unity Industry, TeamOhana |
+| **Hidden Cost** | You're tolerating an enormous cost you've never measured | Avoca, TeamOhana |
+| **Constraint** | Something valuable is artificially scarce | General Legal, BrightEdge |
+| **Identity Burden** | The buyer's identity is split between what they love and what they're forced to do | Jane |
+
+The strongest hero problems (Agency, Eudia, TeamOhana) combine two archetypes for depth.
+
+### The Formula
+
+```
+HERO PROBLEM = Named Tension + Structural Cause + Hidden Consequence
+```
+
+### The Three Quality Tests
+1. **The name test:** Can you say it to a stranger in the buyer's role and have them lean in?
+2. **The inevitability test:** Does it feel structural and worsening, not situational?
+3. **The pre-product test:** Does it resonate before the buyer knows your product exists?
+
+**Tier 1** (passes all three): Agency, Eudia, TeamOhana
+**Tier 2** (passes two): Unity Industry, General Legal, Avoca
+**Tier 3** (passes one or zero): Unity Games, Jane, BrightEdge, Snappy
+
+### Language Patterns
+- **Use "The ___" naming formula.** 7 of 10 hero problems use a definite article -- implies the problem already exists and is waiting to be named.
+- **Use tension words, not product words.** Gap, paradox, ratio, dual, headache, constraint, ceiling -- physics words, economics words, body words.
+- **Use compounding language.** "Compounds until growth stalls," "the more you invest, the more challenging it becomes" -- creates urgency without FUD.
+- **Use second person only for owner-operators.** "Your growth" (Avoca), "you feel overwhelmed" (Jane) -- only when business and personal pain are the same.
+- **Aim for 2-4 words with alliteration or rhythm.** "Headcount Headache," "Customer Value Paradox," "Reality Gap."
+
 ## Related Concepts
 - [[pov-opening-strategies]] — the hero problem is the setup; the opening strategy is the move that follows
 - [[customer-language-capture]] — hero problems are strongest when phrased in the buyer's own words
 - [[category-positioning]] — the hero problem often defines whether the client is creating a new category or repositioning in an existing one
 - [[messaging-hierarchy]] — the hero problem sits at the top of the messaging hierarchy
+- [[engagements/hero-problem-anatomy]] — full cross-client analysis of problem framing patterns
+- [[engagements/hero-problem-formula]] — the universal formula with applied guidance for new engagements
 
 ## Related Clients
 - [[clients/avoca]] — "Your growth is hitting a ceiling"
