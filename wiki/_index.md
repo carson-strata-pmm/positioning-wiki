@@ -1,9 +1,9 @@
 # Strata Wiki Index
 
-_Last compiled: 2026-06-09_
-_Total articles: 21_
+_Last compiled: 2026-06-10_
+_Total articles: 23_
 
-## Concepts (7)
+## Concepts (8)
 
 | Article | Summary | Related Clients |
 |---------|---------|-----------------|
@@ -14,6 +14,7 @@ _Total articles: 21_
 | [[concepts/messaging-hierarchy]] | The standard Strata architecture: POV > Hero Problem > Pain Pillars > Solution > Value Pillars > Outcomes > Proof. Covers the 3-pillar pattern, document types, and problem pillar patterns (archetypes, sequencing, mirroring, formula). | Avoca, Eudia, Agency, TeamOhana, Unity Industry, Unity Games |
 | [[concepts/proof-point-patterns]] | Types of evidence used to make messaging credible: ROI metrics, operational stats, customer quotes, industry data, before/after scenarios, differentiation tables. Identifies proof point gaps. | Avoca, TeamOhana, Eudia, Snappy, Jane, General Legal |
 | [[concepts/customer-language-capture]] | The practice of preserving exact buyer language from interviews and using it as raw material for messaging. Covers interview methodology and pain language patterns. | Avoca, Unity Industry, Eudia, Jane, TeamOhana |
+| [[concepts/homepage-positioning]] | How to make a B2B homepage instantly communicate problem, product, and differentiation. Includes common before mistakes, strategic fix moves, and a 7-dimension scoring rubric. Drawn from 7 Fletch before/after examples. | CommandBar, LoneScale, UserGems, Altura, DinMo, Concierge AI, Omnibound |
 
 ## Clients (11)
 
@@ -31,7 +32,7 @@ _Total articles: 21_
 | [[clients/numeric]] | TBD (discovery phase) | Discovery Brief | Category creator (recommended) |
 | [[clients/unity-games]] | "The Success Gap" | Messaging Framework | Head-to-head |
 
-## Engagements (4)
+## Engagements (5)
 
 | Article | Summary | Related Clients |
 |---------|---------|-----------------|
@@ -39,6 +40,7 @@ _Total articles: 21_
 | [[engagements/hero-problem-anatomy]] | Deep analysis of problem framing patterns across all 10 engagements: structural commonalities, archetypes, language patterns, quality tiers. | All clients |
 | [[engagements/hero-problem-formula]] | The universal hero problem formula with archetype taxonomy, naming conventions, quality tests, and step-by-step guide for new engagements. | All clients |
 | [[engagements/problem-pillar-formula]] | How pain pillars decompose the hero problem: five archetypes, sequencing logic, mirroring pattern, and construction formula. | All clients |
+| [[engagements/homepage-before-after-patterns]] | Cross-example analysis of 7 B2B homepage repositioning examples: pattern taxonomy (6 change types), universal positioning formula, weak vs. strong language patterns. | CommandBar, LoneScale, UserGems, Altura, DinMo, Concierge AI, Omnibound |
 
 _Future candidates:_
 - AI-native positioning patterns (Agency, General Legal, Eudia, Avoca)
