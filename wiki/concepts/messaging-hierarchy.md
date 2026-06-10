@@ -2,311 +2,148 @@
 
 ## Definition
 
-The messaging hierarchy is the structured architecture that organizes a company's messaging from the highest-level narrative down to ready-to-use copy. Strata's framework follows a consistent top-down pattern: POV > Hero Problem > Pain Pillars > Solution > Value Pillars > Outcomes > Proof. Every level must align vertically, and each pillar maps problem to solution to outcome.
+The messaging hierarchy is the system that governs how a company's narrative cascades from the highest level (platform/company story) down through product-specific messaging and into vertical or use-case-specific language. It ensures that every piece of customer-facing communication -- from the CEO's keynote to a product page to a vertical landing page -- draws from the same strategic spine while adapting for the specific audience and context.
 
 ## How It Works
 
-### Standard Strata Messaging Architecture
+### The Three Levels of Messaging
+
+Every company that sells to multiple segments or offers multiple products needs messaging at three levels:
 
 ```
-Layer 1: Company Narrative / POV
-    |   (internal alignment doc -- the company's story)
-    v
-Layer 2: Hero Problem
-    |   (the named, systemic challenge -- 2-4 words)
-    v
-Layer 3: Pain Pillars (x3)
-    |   (sub-problems, each with causes and consequences)
-    v
-Layer 4: Solution / Platform Introduction
-    |   (the named product or platform -- what it is)
-    v
-Layer 5: Value Pillars (x3)
-    |   (each maps 1:1 to a pain pillar via inversion)
-    v
-Layer 6: USPs
-    |   (unique selling points under each value pillar)
-    v
-Layer 7: Outcomes / Future State
-    |   (measurable business outcomes per pillar)
-    v
-Layer 8: Use Cases
-    |   (before/after scenarios showing the transformation)
-    v
-Layer 9: Differentiation
-    |   (vs. status quo, vs. competitors, by axis)
-    v
-Layer 10: Copy Bank
-    |   (taglines, 25-word, 50-word, elevator pitch)
-    v
-Layer 11: Proof Points
-        (metrics, logos, quotes, industry stats)
+Level 1: PLATFORM / COMPANY NARRATIVE
+    The overarching story -- why the company exists, what's broken, what must change.
+    Audience: Everyone (investors, press, all buyers, internal teams)
+
+        ↓ inherits worldview, adapts language
+
+Level 2: PRODUCT NARRATIVE
+    The product-specific story -- what this product does, for whom, and why it's different.
+    Audience: Specific buyer persona(s) for this product
+
+        ↓ inherits positioning, adapts use cases
+
+Level 3: VERTICAL / USE-CASE MESSAGING
+    Segment-specific language -- how the product applies to a specific industry, workflow, or buyer stage.
+    Audience: Specific segment within the product's buyer base
 ```
 
----
-
-## Layer-by-Layer Construction Guide
+### Why the Hierarchy Matters for Scaling GTM
 
-### Layer 1: Company Narrative / POV
+Without a hierarchy, companies face two failure modes:
 
-The POV is an internal alignment document that tells the company's story. Not meant to be shared externally, but the spirit should manifest everywhere.
+**Failure Mode 1: One message for everyone.** The company has a single narrative that it uses for all audiences. The message is either too high-level to be useful ("We transform how businesses operate") or too specific for one buyer to resonate with others. This is the Snappy problem -- single-word pillars ("Expertise," "Scale," "Delight") that could describe any product.
 
-**What it contains:** The market context, the hero problem in narrative form, the company's stance on what's broken and what must change, and the vision for the future.
+**Failure Mode 2: Disconnected messages per segment.** Each product team or vertical team creates their own messaging. The company sounds like five different companies depending on which page the buyer lands on. There's no unifying story, no shared hero problem, no consistent POV.
 
-**Examples:**
+The hierarchy solves both: the platform narrative provides the shared spine, while product and vertical messaging adapt it for specific audiences.
 
-| Client | POV Character | Notable Feature |
-|--------|--------------|-----------------|
-| Unity Industry | "The Reality Gap" | Most literary POV. Opens with "Seeing is believing" and builds to a rallying cry: "We're not just powering an industrial revolution. We're leading a revolution in the industrial world." |
-| Eudia (CLO) | "Speed. Risk. Speed. Risk." | Most sophisticated. Rhythmic repetition physically embodies the tension. Combines indictment, paradox, and inevitable future. |
-| Eudia (ALF) | "Disruption of my career" | Partner-facing. Addresses existential career fear directly. |
-| Agency | "The Customer Value Paradox" | Paradox-driven. Names the contradiction, draws the "bolt-on vs. AI-native" bright line. |
+### Level 1: Platform / Company Narrative
 
-**When a POV is separate from the framework:** Eudia and Unity Industry have standalone POV narratives. Most other clients embed the narrative voice within the framework's opening sections.
+The platform narrative is the POV and hero problem at their broadest. It names the systemic challenge the company was built to address and takes a stance on what must change. Every product and vertical narrative must be traceable back to this story.
 
-**Eudia's Messaging Map** is a unique meta-deliverable that explains how the POV, CLO Framework, and ALF Framework relate to each other. Useful model for complex, multi-audience engagements.
+| Client | Platform Narrative | Hero Problem | What It Governs |
+|--------|-------------------|-------------|-----------------|
+| Unity (combined) | "Technology should enable creativity, not constrain it" | The gap between creative ambition and technical/operational overhead | Both Unity Games and Unity Industry frameworks |
+| Eudia | "The legal operating model was built for a slower world" | "The speed-to-risk ratio" | CLO framework, ALF framework, all vertical legal use cases |
+| BrightEdge | "Search is being consumed by generative AI" | "Discoverability in the AI era" | Platform framework, persona messaging (SEO lead, omni-channel), use-case layers |
 
-### Layer 2: Hero Problem
+**Unity is the clearest example.** Unity Technologies has one platform narrative about the power of real-time 3D, but two product narratives: Unity for Games ("The Success Gap" -- creative ambition vs. operational overhead) and Unity for Industry ("The Reality Gap" -- 3D expertise locked in specialized tools). Both inherit the platform-level belief that technology should democratize creation, but each adapts it for a fundamentally different buyer.
 
-The named, systemic challenge that anchors all messaging. See [[concepts/hero-problem-framing]] and [[playbooks/hero-problem-playbook]] for full guidance.
-
-**Complete map across all clients:**
+### Level 2: Product Narrative
 
-| Client | Hero Problem | Archetype | Tier |
-|--------|-------------|-----------|------|
-| Agency | "The Customer Value Paradox" | Paradox + Hidden Cost | 1 |
-| Eudia | "The speed-to-risk ratio" | Paradox + Constraint | 1 |
-| TeamOhana | "The Headcount Headache" | Gap + Hidden Cost | 1 |
-| Unity Industry | "The Reality Gap" | Gap | 2 |
-| General Legal | "The Scarcity Constraint" | Constraint | 2 |
-| Avoca | "Your growth is hitting a ceiling" | Hidden Cost | 2 |
-| Unity Games | "The Success Gap" | Gap | 3 |
-| Jane | "The dual responsibility" | Identity Burden | 3 |
-| BrightEdge | "Discoverability in the AI era" | Constraint | 3 |
-| Snappy | "Ad hoc gifting" | Hidden Cost | 3 |
-
-### Layer 3: Pain Pillars
+The product narrative inherits the platform's worldview but focuses on a specific buyer's experience of the problem. It has its own hero problem, pain pillars, value pillars, and proof points -- but these must feel like a specific expression of the platform story, not a disconnected narrative.
 
-Three sub-problems that decompose the hero problem into distinct, addressable dimensions. See [[playbooks/problem-pillar-playbook]] for full guidance.
+**The inheritance test:** Can you draw a straight line from the product's hero problem back to the platform's hero problem? If yes, the hierarchy is working. If the product narrative feels like it belongs to a different company, the hierarchy is broken.
 
-**Complete pillar map:**
+| Platform Story | Product Narrative | Inheritance |
+|---------------|-------------------|-------------|
+| Unity: technology should enable creativity | Games: "The Success Gap" -- making a successful game requires more than ever | Game developers experience the creativity-vs-overhead tension as operational complexity (live ops, discovery, monetization) pulling them from creative work |
+| Unity: technology should enable creativity | Industry: "The Reality Gap" -- 3D designs locked in specialized tools | Industrial teams experience the creativity-vs-overhead tension as expertise barriers that lock out non-specialists |
+| Eudia: legal operating model is outdated | CLO: "The speed-to-risk ratio" | CLOs experience the outdated model as an unsustainable balance between speed and risk |
+| Eudia: legal operating model is outdated | ALF: "Disruption of my career" | Law firm partners experience the outdated model as existential career threat |
 
-| Client | Pillar 1 (Input) | Pillar 2 (Process) | Pillar 3 (Outcome) |
-|--------|-----------------|-------------------|-------------------|
-| Avoca | Underfilled job boards | Inconsistent customer experience | Staffing challenges |
-| Agency | Limited customer coverage | Terrible customer experience | Unrealized value |
-| Eudia (CLO) | Bottleneck to the business | Escalating, inefficient spend | Overloaded internal team |
-| Eudia (ALF) | Eroding client trust | Constrained | Being left behind |
-| TeamOhana | Untrusted data | Lack of control | Wasted time |
-| Unity Industry | Creation bottlenecked | Collaboration barriers | Can't see what's built |
-| Unity Games | Platform overhead | Live ops demands | Discovery/monetization difficulty |
-| BrightEdge | Bandwidth and resourcing | Reporting complexity | Limited cross-functional buy-in |
-| General Legal | Can't keep up with pace | Too little time on strategy | Perceived as cost center |
-| Jane | Admin consuming time | Tools don't fit workflow | Patients need accessible care |
-| Snappy | No gifting strategy | Manual gifting operations | Gifts don't land |
+### Level 3: Vertical / Use-Case Messaging
 
-### Layer 4: Solution / Platform Introduction
+Vertical messaging takes the product narrative and contextualizes it for a specific industry, workflow, or buyer segment. It doesn't change the hero problem or the value pillars -- it translates them into the language and scenarios of a specific audience.
 
-The transition from problem to product. This is where the product is named and positioned within (or as) a category.
+**BrightEdge is the model here.** The platform framework sits at Level 1. Below it, BrightEdge has persona-specific messaging for SEO leads vs. omni-channel marketers (Level 2), and use-case-specific messaging for different SEO workflows (Level 3). This multi-document modular system is the most explicit hierarchy in the corpus.
 
-**Construction rules:**
-- The solution introduction should feel like the inevitable response to the hero problem, not a product pitch
-- Name the product category before naming the product
-- Connect back to the bright line (if category creation): "This is why we built [category], not another [old approach]"
+**Unity Industry's use cases** function as Level 3 messaging: HMI/embedded, prototyping, digital twins, training, and product configurators each take the same value pillars ("Enable more people to create in 3D," "One place to collaborate in 3D," "Immersive experiences for everyone") and apply them to a specific industrial workflow.
 
-| Client | Solution Introduction | Category Framing |
-|--------|---------------------|-----------------|
-| Agency | "Meet Kai" -- superintelligent customer AI agent | Category creator: autonomous AI co-worker, not copilot |
-| Eudia | Eudia's Augmented Intelligence Platform | Category creator: augmented intelligence, not artificial |
-| TeamOhana | "The first and only headcount management platform" | Category creator: purpose-built for the gap |
-| Avoca | Avoca's agentic platform | Head-to-head: AI front office for home services |
-| Unity Industry | Unity for Industry | Category redefiner: 3D collaboration platform, not game engine |
-| General Legal | "An AI-native law firm" | Category redefiner: AI-native, not traditional |
+### Maintaining Consistency Across Levels
 
-### Layer 5: Value Pillars
+The hierarchy works when three things stay constant across all levels:
 
-Three value statements, each mapping 1:1 to a pain pillar via inversion. See [[playbooks/problem-pillar-playbook]] for inversion types.
+1. **The worldview stays the same.** Whether it's a keynote, a product page, or a vertical landing page, the company believes the same thing about what's broken and what must change.
+2. **The hero problem stays recognizable.** The product-level hero problem should feel like a specific instance of the platform-level hero problem, not a different problem entirely.
+3. **The value pillars stay structurally aligned.** Product-level pillars may use different language, but they should map to the same strategic themes.
 
-**Complete value pillar map:**
+What changes across levels:
+- **Language and specificity.** The platform narrative says "technology should enable creativity." The product narrative says "develop without compromise." The vertical page says "ship to iOS, Android, and console from a single codebase."
+- **Proof points.** The platform uses industry-level stats. The product uses customer metrics. The vertical uses use-case-specific examples.
+- **Buyer address.** The platform speaks to "leaders." The product speaks to "game developers." The vertical speaks to "mobile-first studios shipping on Unity."
 
-| Client | Value 1 | Value 2 | Value 3 |
-|--------|---------|---------|---------|
-| Avoca | Book more jobs | Deliver exceptional experiences | Scale your front office |
-| Agency | Single point of contact | Complete context on every customer | Infinite capacity to serve |
-| Eudia (CLO) | Deliver greater business value | Supercharge your network of attorneys | Stop the toil |
-| Eudia (ALF) | Provide greater client value | Agency over my practice | Shape the future |
-| TeamOhana | Real-time visibility | Unified process | Automated workflows |
-| Unity Industry | Enable more people to create in 3D | One place to collaborate in 3D | Immersive experiences for everyone |
-| Unity Games | Develop without compromise | Deploy without friction | Grow on your terms |
-| BrightEdge | Work automation | Insights | Visibility |
-| General Legal | Elite legal expertise | AI-native legal operations | Contextualized legal judgment |
-| Jane | Designed to work the way you do | Great patient experience | The Jane team is your team |
-| Snappy | Expertise | Scale | Delight |
+## Examples from Client Work
 
-### Layer 6: USPs (Unique Selling Points)
+### Multi-Level Hierarchy: Unity
 
-Specific capabilities or features that sit under each value pillar. These are the most product-specific layer and the primary input for feature marketing, sales decks, and product pages.
+Unity is the only engagement in the corpus that explicitly produced two product-level frameworks under one company. The hierarchy is visible in the deliverable structure:
 
-**Construction rules:**
-- 2-4 USPs per value pillar
-- Each USP should be verifiable (the buyer can see it in a demo)
-- USPs should differentiate, not just describe -- "AI-built-in" is a USP only if competitors lack it
+- **Level 1 (Platform):** Unity Technologies' shared belief in the power of real-time 3D
+- **Level 2a (Product):** Unity for Games -- "The Success Gap," three pillars: develop, deploy, grow
+- **Level 2b (Product):** Unity for Industry -- "The Reality Gap," three pillars: create, collaborate, experience
 
-| Client | Example USPs |
-|--------|-------------|
-| Avoca | Per-call ROI tracking, human-in-the-loop escalation, <3 second answer time |
-| TeamOhana | Real-time data sync, approval workflows, automated headcount reconciliation |
-| Unity Industry | No-code editor, 70+ file format support, web-based access |
-| General Legal | Senior-only attorney model, flat-fee pricing, compounding context |
+Both products share the platform-level conviction that real-time 3D should be accessible to more people. Games expresses this as removing operational overhead from developers. Industry expresses this as removing expertise barriers from non-specialist teams. The shared DNA is visible, but the buyer language is completely different.
 
-### Layer 7: Outcomes / Future State
+### Multi-Level Hierarchy: Eudia
 
-Measurable business outcomes mapped to each value pillar. The outcome is what the buyer gets if the value pillar delivers.
+Eudia's hierarchy is the most complex in the corpus:
 
-| Client | Outcome 1 | Outcome 2 | Outcome 3 |
-|--------|-----------|-----------|-----------|
-| Avoca | Never miss a call | Full board year-round | Operate efficiently at scale |
-| Agency | Lower cost to serve | Best experience at every touchpoint | Predictable revenue growth |
-| TeamOhana | Strategic alignment and confidence | Built-in controls and compliance | Faster decisions, less firefighting |
-| Unity Industry | Fuel innovation | Better decisions | Faster development cycles |
-| Unity Games | Better games, faster | More engaged players | Monetize on your terms |
+- **Level 1 (Platform):** The legal operating model is broken. AI will transform legal.
+- **Level 2a (Product/Demand):** CLO narrative -- "The speed-to-risk ratio." Three pillars about legal throughput, spend, and team capacity.
+- **Level 2b (Product/Supply):** ALF narrative -- "Disruption of my career." Three pillars about client trust, career agency, and shaping the future.
 
-### Layer 8: Use Cases (Before/After Scenarios)
+The Messaging Map meta-document explicitly defines the relationship between these levels. It states "CLOs must be sold first" -- a sequencing decision that governs the hierarchy's go-to-market deployment.
 
-Narrative proof through micro-stories. The before/after format mirrors the hero problem at a tactical level.
+### Multi-Document Modular System: BrightEdge
 
-**Best-in-class example (Avoca):**
-> **Before:** "A customer calls during a busy Monday morning. The line rings. No one answers. The customer hangs up and calls a competitor."
-> **After:** "Avoca answers every call in under 3 seconds. The customer books an appointment. The technician's board is full by Tuesday."
+BrightEdge has the most explicitly layered document system:
 
-**Construction rules:**
-- Each use case should map to a value pillar
-- Name the persona, the scenario, and the outcome
-- Include a specific metric or time reference if available
-- Avoca has the strongest use case library (inbound capture, lead follow-up, nurture campaigns, scheduling, after-hours)
+- **Level 1:** Platform-level messaging framework (the "discoverability in the AI era" story)
+- **Level 2:** Persona-specific messaging (SEO/organic lead, omni-channel marketers, digital marketers)
+- **Level 3:** Use-case-specific messaging (keyword strategy, content optimization, competitive analysis, etc.)
 
-### Layer 9: Differentiation
+This modular approach means a content marketer writing a landing page for "SEO teams" can pull from Level 2, while someone writing a feature page for "content optimization" pulls from Level 3 -- both inheriting the same platform POV from Level 1.
 
-Structured comparison against alternatives. Most Strata frameworks use multi-axis differentiation:
+### Single-Level Frameworks (Most Clients)
 
-| Differentiation Pattern | Description | Example |
-|------------------------|-------------|---------|
-| **Three-axis** | vs. status quo + vs. category A + vs. category B | TeamOhana: vs. spreadsheets, vs. FP&A/HRIS, vs. point solutions |
-| **Two-axis** | vs. incumbent category + vs. new entrants | Jane: vs. non-consumption (patchwork tools), vs. purpose-built PMS/EMR |
-| **Dual-competitive** | Two distinct competitive frames | Unity Games: vs. Unreal (3D editors), vs. AppLovin (ad networks) |
-| **10-dimension table** | Detailed column-by-column comparison | Eudia: Traditional Law Firm vs. Augmented Law Firm across 10 dimensions |
+Most Strata clients operate at a single level. Avoca, TeamOhana, Agency, Jane, Snappy, and General Legal each have one product serving one primary market. Their messaging frameworks are Level 2 documents that serve as both platform and product narrative.
 
-### Layer 10: Copy Bank
-
-Ready-to-use copy in multiple formats. Often the most used output -- pasted directly into websites, pitch decks, and sales scripts.
-
-**Standard copy bank formats:**
-- **Tagline** (5-8 words)
-- **25-word description**
-- **50-word description**
-- **Elevator pitch** (100-150 words)
-- **Positioning statement** (for [audience] who [need], [product] is [category] that [key benefit])
-
-> **TeamOhana's copy bank** contains 6+ elevator pitch alternatives, showing how the team iterated on positioning language. The draft framework preserves the iteration process -- useful as a reference for future engagements.
-
-### Layer 11: Proof Points
-
-Evidence that makes every layer above credible. See [[concepts/proof-point-patterns]] for full taxonomy.
-
-**Proof point maturity across clients:**
-
-| Client | Proof Maturity | Notable Proof |
-|--------|---------------|---------------|
-| Avoca | Strong | Multiple named customers, hard metrics ($800K single-branch campaign) |
-| TeamOhana | Strong | $294K savings, 75% reduction in manual work, customer quote |
-| Eudia | Strong | $30M+ opportunities identified, industry stats (79% volume increase) |
-| Snappy | Moderate | Third-party research stats (no named customers) |
-| Agency | Weak | No named customers or metrics (marked TBD) |
-| Jane | Weak | No metrics (qualitative claims only) |
-| General Legal | Weak | Validation section empty |
-| Unity Games | Weak | No named customer metrics |
-| BrightEdge | Weak | Capability claims only |
-| Unity Industry | Weak | Use cases but no customer metrics |
-
----
-
-## The 3-Pillar Pattern
-
-Nearly every Strata engagement organizes messaging around exactly three pillars. These create a symmetric structure: three problems map to three solutions map to three outcomes.
-
-**Complete symmetric map (all clients):**
-
-| Client | Pain Pillars | Value Pillars | Outcome Pillars |
-|--------|-------------|---------------|-----------------|
-| Avoca | Underfilled job boards / Inconsistent CX / Staffing challenges | Book more jobs / Exceptional experiences / Scale front office | Never miss a call / Full board year-round / Operate efficiently |
-| Agency | Limited coverage / Terrible CX / Unrealized value | Single point of contact / Complete context / Infinite capacity | Lower cost to serve / Best experience / Predictable growth |
-| Eudia CLO | Bottleneck / Escalating spend / Overloaded team | Business value / Supercharge attorneys / Stop the toil | Business value / Cost savings / Job satisfaction |
-| TeamOhana | Untrusted data / Lack of control / Wasted time | Real-time visibility / Unified process / Automated workflows | Strategy alignment / Built-in controls / Faster decisions |
-| Unity Industry | Creation bottleneck / Collaboration barriers / No visibility | Enable creation / Collaborate in 3D / Immersive experiences | Fuel innovation / Better decisions / Faster development |
-| Unity Games | Platform overhead / Live ops demands / Discovery difficulty | Develop without compromise / Deploy without friction / Grow on your terms | Better games faster / Engaged players / Monetize freely |
-
-**Why three works:** Two feels incomplete; four loses focus. The 3-pillar constraint forces strategic choices about what matters most -- which is itself a strategic act. Jane is the sole exception with four pillars.
-
----
-
-## Document Types
-
-Strata typically delivers two core documents per engagement:
-
-### 1. POV / Strategic Narrative
-An internal alignment document that tells the company's story. Not customer-facing, but the spirit should manifest everywhere. Contains the market context, hero problem in narrative form, and the company's stance.
-
-**Clients with standalone POVs:** Eudia (CLO POV, ALF POV), Unity Industry ("The Reality Gap" narrative)
-
-### 2. Messaging Framework
-The operational blueprint for marketing and sales. Contains the full hierarchy from audience definition through copy bank. This is the primary deliverable.
-
-**Every client** received a messaging framework. Format is consistent but depth varies -- Avoca and TeamOhana have the most detailed frameworks with extensive copy banks and use case libraries.
-
-### 3. Messaging Map (rare)
-A meta-document explaining how multiple deliverables relate to each other. Only produced for Eudia, where the CLO narrative, CLO framework, ALF narrative, and ALF framework needed a relationship map.
-
----
-
-## Brand Voice
-
-Brand voice is rarely a core deliverable but matters for specific buyer audiences:
-
-| Client | Voice Defined? | Voice Characteristics | Why |
-|--------|---------------|----------------------|-----|
-| Eudia | Yes (explicitly) | Academic, insider, inventive, premium, communal, trustworthy | Lawyers are skeptical; generic SaaS copy fails |
-| Jane | Yes (implicitly) | Warm, empathetic, personal, non-corporate | Owner-practitioners need to feel understood |
-| Agency | Partially | Visionary, bold, confident | AI-native positioning requires conviction |
-| Avoca | Partially | Direct, operational, empathetic | Owner-operators respond to warmth and specificity |
+The hierarchy becomes important when these companies grow: when Avoca expands from home services into other verticals, when TeamOhana adds products beyond headcount management, or when Agency moves from CX into other AI agent use cases. At that point, the current framework becomes the Level 2 product narrative, and a new Level 1 platform narrative needs to be created above it.
 
 ## Patterns & Lessons
 
-- **Symmetry drives clarity.** Each pain pillar should have a corresponding value pillar and outcome. If the mapping breaks, the messaging has a structural problem.
-- **The POV and the framework serve different audiences.** The POV is for internal alignment (whole company). The framework is for marketing/content teams. Conflating them weakens both.
-- **Copy banks are undervalued.** The taglines, 25-word, 50-word, and elevator pitch sections are often the most used outputs. They get pasted directly into websites, pitch decks, and sales scripts.
-- **Use cases with before/after format are powerful.** Avoca's use cases tell micro-stories that sales teams can retell.
-- **The hierarchy is fractal.** Each pain pillar replicates the hero problem's three-layer structure (pain statement, causes, consequences). Each use case replicates the hero problem's before/after structure.
-- **Proof maturity varies widely.** Only 3 of 10 clients have strong proof points. This is the most common gap in delivered frameworks and an opportunity for follow-up engagement.
+- **The platform narrative is the ceiling.** No product or vertical message can claim something the platform narrative doesn't support. If the platform story is about "democratizing 3D," the product can't suddenly be about "enterprise security."
+- **Product narratives need their own hero problems.** Sharing the platform's hero problem verbatim makes the product feel generic. The product hero problem should be a specific expression of the platform tension, experienced through the product buyer's eyes.
+- **Vertical messaging is translation, not invention.** The vertical doesn't get a new narrative -- it gets the product narrative expressed in the vertical's language with the vertical's examples. If building vertical messaging requires inventing new value pillars, the product narrative has gaps.
+- **The hierarchy predicts scaling pain.** Companies that start with one product and one framework will eventually need the hierarchy. Building with the hierarchy in mind (even if only Level 2 exists today) makes future expansion smoother.
+- **Document structure should mirror the hierarchy.** BrightEdge's multi-document system is the most operationally scalable. A single monolithic framework breaks down once you have multiple products or verticals.
+- **Consistency beats customization.** The temptation at Level 3 is to completely customize for each vertical. But if every vertical page sounds different, the company has no brand. The hierarchy's job is to keep the spine consistent while allowing the surface to adapt.
 
 ## Related Concepts
 
-- [[concepts/hero-problem-framing]] -- sits at Layer 2 of the hierarchy
-- [[concepts/pov-opening-strategies]] -- the POV document operationalizes the opening strategy at Layer 1
-- [[concepts/proof-point-patterns]] -- proof sits at Layer 11, validating everything above
-- [[concepts/category-positioning]] -- category stance governs the solution introduction at Layer 4
-- [[concepts/icp-signal-patterns]] -- the target buyer determines how each layer is expressed
-- [[concepts/homepage-positioning]] -- the homepage is the most compressed expression of the full hierarchy
+- [[concepts/messaging-framework]] -- the framework document operates at one level of the hierarchy
+- [[concepts/point-of-view]] -- the POV is the Level 1 narrative that governs everything below it
+- [[concepts/two-buyer-problem]] -- multi-buyer dynamics often create the need for multi-level messaging
+- [[concepts/category-positioning]] -- category stance may differ by level (platform category vs. product category)
+- [[concepts/homepage-structure]] -- the homepage typically expresses Level 2 (product narrative) for the primary buyer
 
 ## Related Clients
 
-- [[clients/avoca]] -- clean 3-pillar architecture, strongest use cases and proof
-- [[clients/eudia]] -- most complex: dual narratives, standalone POVs, messaging map
-- [[clients/agency]] -- pillar structure maps AI agent capabilities to CX paradox
-- [[clients/teamohana]] -- tightest pain-value-outcome alignment, extensive copy bank
-- [[clients/unity-industry]] -- POV narrative is a standout creative piece
-- [[clients/unity-games]] -- "develop, deploy, grow" framework with strong internal alignment
-- [[clients/brightedge]] -- multi-document modular system (platform + persona + use-case layers)
-- [[clients/general-legal]] -- clean category redefinition framing despite proof gap
-- [[clients/jane]] -- most emotionally-driven messaging, four-pillar exception
-- [[clients/snappy]] -- simplified single-persona framework
-- [[clients/numeric]] -- pre-engagement; hierarchy to be built from discovery
+- [[clients/unity-games]] -- Level 2 product narrative under the Unity platform ("The Success Gap")
+- [[clients/unity-industry]] -- Level 2 product narrative under the Unity platform ("The Reality Gap")
+- [[clients/eudia]] -- most complex hierarchy (platform + CLO product + ALF product + sequencing rules)
+- [[clients/brightedge]] -- most explicitly layered document system (platform + persona + use-case)
+- [[clients/avoca]] -- single-level framework that would need hierarchy as company expands to new verticals
+- [[clients/teamohana]] -- single-level framework positioned for future product expansion

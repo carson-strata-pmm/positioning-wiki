@@ -1,9 +1,27 @@
 # Strata Wiki Index
 
 _Last compiled: 2026-06-10_
-_Total articles: 29_
+_Total articles: 36_
 
-## Concepts (7)
+## Foundation Concepts (4)
+
+| Article | Summary | Related Clients |
+|---------|---------|-----------------|
+| [[concepts/point-of-view]] | The strategic narrative that anchors all messaging. Covers POV vs. mission statement, the 3-move structure (truth → named problem → inevitable future), the 5 opening moves, strong vs. weak examples, and POV as standalone document vs. embedded in framework. | Eudia, Unity Industry, Agency, Avoca, TeamOhana, General Legal |
+| [[concepts/problem-architecture]] | The full structural stack: hero problem + root causes + consequence cascade. Covers the "trying harder" test, the fractal pattern (pillars as mini problem architectures), quantification patterns, and strongest (TeamOhana) vs. weakest (Snappy) examples. | All clients |
+| [[concepts/two-buyer-problem]] | Why most B2B products face multiple buyers and how to resolve it. Covers primary/secondary buyer designation, three patterns (primary+secondary, dual narrative, multi-persona), cross-functional pairs, and homepage implications. | Eudia, TeamOhana, Avoca, Unity Games, General Legal, Numeric |
+| [[concepts/value-over-features]] | The principle that messaging must lead with what the buyer gets, not what the product does. Covers the inversion pattern (negation, aspiration, mechanism), complete inversion map across corpus, the value hierarchy (pillar → USP → outcome), and pillar naming quality. | Avoca, Agency, TeamOhana, Unity Games, Unity Industry, BrightEdge, Snappy |
+
+## Execution Concepts (4)
+
+| Article | Summary | Related Clients |
+|---------|---------|-----------------|
+| [[concepts/messaging-framework]] | The single source of truth for all customer-facing language. Covers what a framework contains, how different teams use it, how Strata builds one top-down, and what makes a framework strong (Avoca, TeamOhana) vs. weak (Snappy). | All clients |
+| [[concepts/messaging-hierarchy]] | How messaging cascades from platform to product to vertical. Covers three levels (platform narrative → product narrative → vertical/use-case messaging), consistency rules, and multi-level examples from Unity, Eudia, and BrightEdge. | Unity Games, Unity Industry, Eudia, BrightEdge, Avoca, TeamOhana |
+| [[concepts/pitch-deck-structure]] | How the messaging framework translates into a pitch deck. Covers the narrative arc (problem → market → solution → proof → why us → ask), framework-to-slide mapping, the problem-first principle, and proof gap impact. | TeamOhana, Avoca, Eudia, Agency, Unity Games, Unity Industry |
+| [[concepts/homepage-structure]] | How messaging translates into a homepage. Covers the standard homepage arc, hero problem mapping, value pillar feature sections, the before/after patterns, the 7-dimension rubric, and common homepage mistakes. | Avoca, TeamOhana, Agency, Unity Games, Eudia, BrightEdge |
+
+## Additional Concepts (7)
 
 | Article | Summary | Related Clients |
 |---------|---------|-----------------|
@@ -11,7 +29,6 @@ _Total articles: 29_
 | [[concepts/category-positioning]] | How clients define their competitive context: category creation, redefinition, or head-to-head. Includes differentiation table patterns and the named enemy principle. | Eudia, TeamOhana, Agency, BrightEdge, General Legal, Avoca, Unity Games, Unity Industry |
 | [[concepts/pov-opening-strategies]] | The five rhetorical moves a narrative makes before introducing the product: indict the status quo, name a paradox, surface a hidden cost, reframe the market, invoke an inevitable future. | Eudia, Agency, Avoca, BrightEdge, Unity Industry, General Legal, TeamOhana |
 | [[concepts/icp-signal-patterns]] | Buyer archetypes (owner-operator, functional VP, C-suite, technical practitioner, cross-functional pair, transformation leader), trigger event taxonomy, stage-based segmentation guide, and multi-buyer engagement patterns. | All clients |
-| [[concepts/messaging-hierarchy]] | The complete Strata architecture: 11 layers from POV through proof points. Layer-by-layer construction guide with complete pillar maps, document types, brand voice patterns, and proof maturity assessment across all clients. | All clients |
 | [[concepts/proof-point-patterns]] | Types of evidence used to make messaging credible: ROI metrics, operational stats, customer quotes, industry data, before/after scenarios, differentiation tables. Identifies proof point gaps across engagements. | Avoca, TeamOhana, Eudia, Snappy, Jane, General Legal |
 | [[concepts/homepage-positioning]] | How to make a B2B homepage communicate problem, product, and differentiation. Common before mistakes, strategic fix moves, and a 7-dimension scoring rubric. Drawn from 7 Fletch before/after examples. | CommandBar, LoneScale, UserGems, Altura, DinMo, Concierge AI, Omnibound |
 
