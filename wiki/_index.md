@@ -1,7 +1,7 @@
 # Strata Wiki Index
 
 _Last compiled: 2026-06-11_
-_Total articles: 37_
+_Total articles: 38_
 
 ## Foundation Concepts (4)
 
@@ -21,7 +21,7 @@ _Total articles: 37_
 | [[concepts/pitch-deck-structure]] | How the messaging framework translates into a pitch deck. Covers the narrative arc (problem → market → solution → proof → why us → ask), framework-to-slide mapping, the problem-first principle, and proof gap impact. | TeamOhana, Avoca, Eudia, Agency, Unity Games, Unity Industry |
 | [[concepts/homepage-structure]] | How messaging translates into a homepage. Covers the standard homepage arc, hero problem mapping, value pillar feature sections, the before/after patterns, the 7-dimension rubric, and common homepage mistakes. | Avoca, TeamOhana, Agency, Unity Games, Eudia, BrightEdge |
 
-## Additional Concepts (8)
+## Additional Concepts (9)
 
 | Article | Summary | Related Clients |
 |---------|---------|-----------------|
@@ -31,6 +31,7 @@ _Total articles: 37_
 | [[concepts/icp-signal-patterns]] | Buyer archetypes (owner-operator, functional VP, C-suite, technical practitioner, cross-functional pair, transformation leader), trigger event taxonomy, stage-based segmentation guide, and multi-buyer engagement patterns. | All clients |
 | [[concepts/proof-point-patterns]] | Types of evidence used to make messaging credible: ROI metrics, operational stats, customer quotes, industry data, before/after scenarios, differentiation tables. Identifies proof point gaps across engagements. | Avoca, TeamOhana, Eudia, Snappy, Jane, General Legal |
 | [[concepts/messaging-framework-rubric]] | Five-dimension scoring rubric for evaluating messaging frameworks: hero problem clarity, pillar construction, buyer specificity, clarity & specificity, competitive clarity. Each dimension has 1-5 scoring guide and calibration examples from the corpus. | Avoca, TeamOhana, Agency, Eudia, General Legal, Snappy |
+| [[concepts/pov-rubric]] | Five-dimension scoring rubric for evaluating POV narratives: opening hook, arc integrity, resolution & vision, writing quality & flow, overall narrative strength. Documents the seven-beat POV arc and scores each dimension 1-5 with calibration examples. | Eudia, Agency, Unity Industry |
 | [[concepts/homepage-positioning]] | How to make a B2B homepage communicate problem, product, and differentiation. Common before mistakes, strategic fix moves, and a 7-dimension scoring rubric. Drawn from 7 Fletch before/after examples. | CommandBar, LoneScale, UserGems, Altura, DinMo, Concierge AI, Omnibound |
 
 ## Playbooks (4)
