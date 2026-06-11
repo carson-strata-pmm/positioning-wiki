@@ -234,7 +234,7 @@ Transitions that use connective language ("as a result," "therefore," "but") wit
 
 - **Messaging Framework rubric** evaluates structural completeness, pillar construction, buyer specificity, and competitive clarity. See [[concepts/messaging-framework-rubric]].
 - **Homepage rubric** evaluates hero clarity, audience mapping, problem clarity, value clarity, competitive POV, and proof placement. See [[concepts/homepage-rubric]].
-- **Pitch Deck rubric** evaluates slide-level clarity, narrative flow across slides, and proof structure. See [[concepts/pitch-deck-rubric]] (forthcoming).
+- **Pitch Deck rubric** evaluates headline narrative, arc integrity, focus and density, problem-solution mirroring, proof quality, and standout factor. See [[concepts/pitch-deck-rubric]].
 
 ## Related Concepts
 

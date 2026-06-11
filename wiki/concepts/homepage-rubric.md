@@ -225,7 +225,7 @@ The hero targets one buyer. The case studies are from a different buyer. The tes
 
 - **Messaging Framework rubric** evaluates structural completeness, pillar construction, buyer specificity, and competitive clarity. See [[concepts/messaging-framework-rubric]].
 - **POV Narrative rubric** evaluates opening hook, arc integrity, resolution and vision, writing quality, and overall narrative strength. See [[concepts/pov-rubric]].
-- **Pitch Deck rubric** evaluates slide-level clarity, narrative flow across slides, and proof structure. See [[concepts/pitch-deck-rubric]] (forthcoming).
+- **Pitch Deck rubric** evaluates headline narrative, arc integrity, focus and density, problem-solution mirroring, proof quality, and standout factor. See [[concepts/pitch-deck-rubric]].
 
 ## Related Concepts
 

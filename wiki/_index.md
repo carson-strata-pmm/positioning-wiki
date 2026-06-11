@@ -1,7 +1,7 @@
 # Strata Wiki Index
 
 _Last compiled: 2026-06-11_
-_Total articles: 39_
+_Total articles: 40_
 
 ## Foundation Concepts (4)
 
@@ -21,7 +21,7 @@ _Total articles: 39_
 | [[concepts/pitch-deck-structure]] | How the messaging framework translates into a pitch deck. Covers the narrative arc (problem → market → solution → proof → why us → ask), framework-to-slide mapping, the problem-first principle, and proof gap impact. | TeamOhana, Avoca, Eudia, Agency, Unity Games, Unity Industry |
 | [[concepts/homepage-structure]] | How messaging translates into a homepage. Covers the standard homepage arc, hero problem mapping, value pillar feature sections, the before/after patterns, the 7-dimension rubric, and common homepage mistakes. | Avoca, TeamOhana, Agency, Unity Games, Eudia, BrightEdge |
 
-## Additional Concepts (9)
+## Additional Concepts (10)
 
 | Article | Summary | Related Clients |
 |---------|---------|-----------------|
@@ -34,6 +34,7 @@ _Total articles: 39_
 | [[concepts/pov-rubric]] | Five-dimension scoring rubric for evaluating POV narratives: opening hook, arc integrity, resolution & vision, writing quality & flow, overall narrative strength. Documents the seven-beat POV arc and scores each dimension 1-5 with calibration examples. | Eudia, Agency, Unity Industry |
 | [[concepts/homepage-positioning]] | How to make a B2B homepage communicate problem, product, and differentiation. Common before mistakes, strategic fix moves, and a 7-dimension scoring rubric. Drawn from 7 Fletch before/after examples. | CommandBar, LoneScale, UserGems, Altura, DinMo, Concierge AI, Omnibound |
 | [[concepts/homepage-rubric]] | Six-dimension scoring rubric for evaluating B2B SaaS homepages: hero clarity, audience mapping, problem clarity, value clarity, competitive POV, proof & social validation. Each dimension has 1-5 scoring guide with calibration examples from the Fletch corpus and Strata client work. | Avoca, TeamOhana, Agency, CommandBar, LoneScale, Concierge AI |
+| [[concepts/pitch-deck-rubric]] | Six-dimension scoring rubric for evaluating B2B SaaS pitch decks: headline narrative test, arc integrity, focus & density, solution mirrors problem, proof quality & placement, standout factor. Documents the genomic slide taxonomy and uses Avoca as the calibration gold standard. | Avoca, TeamOhana, Eudia, Agency |
 
 ## Playbooks (4)
 
