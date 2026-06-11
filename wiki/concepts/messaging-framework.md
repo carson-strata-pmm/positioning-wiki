@@ -113,6 +113,10 @@ The framework describes the product space but doesn't build a persuasive argumen
 - **One framework per audience, not one framework for all.** Eudia's dual framework is the exception that proves the rule. Most multi-buyer engagements can use one framework with persona-specific sections. But when buyers have fundamentally different motivations (CLO vs. law firm partner), separate frameworks are needed.
 - **The framework predicts downstream quality.** The engagements with the strongest frameworks (Avoca, TeamOhana, Agency) also have the most usable copy banks, the clearest homepage direction, and the most coherent sales narratives. Weak frameworks cascade into weak everything.
 
+## How to Evaluate a Messaging Framework
+
+See [[concepts/messaging-framework-rubric]] for the definitive five-dimension scoring rubric: hero problem clarity, pillar construction, buyer specificity, clarity & specificity, and competitive clarity. Each dimension includes scoring guides and calibration examples drawn from the corpus.
+
 ## Related Concepts
 
 - [[concepts/messaging-hierarchy]] -- the hierarchy defines the structural layers; the framework is the document that contains them
