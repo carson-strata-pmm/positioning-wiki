@@ -1,7 +1,7 @@
 # Strata Wiki Index
 
 _Last compiled: 2026-06-11_
-_Total articles: 38_
+_Total articles: 39_
 
 ## Foundation Concepts (4)
 
@@ -33,6 +33,7 @@ _Total articles: 38_
 | [[concepts/messaging-framework-rubric]] | Five-dimension scoring rubric for evaluating messaging frameworks: hero problem clarity, pillar construction, buyer specificity, clarity & specificity, competitive clarity. Each dimension has 1-5 scoring guide and calibration examples from the corpus. | Avoca, TeamOhana, Agency, Eudia, General Legal, Snappy |
 | [[concepts/pov-rubric]] | Five-dimension scoring rubric for evaluating POV narratives: opening hook, arc integrity, resolution & vision, writing quality & flow, overall narrative strength. Documents the seven-beat POV arc and scores each dimension 1-5 with calibration examples. | Eudia, Agency, Unity Industry |
 | [[concepts/homepage-positioning]] | How to make a B2B homepage communicate problem, product, and differentiation. Common before mistakes, strategic fix moves, and a 7-dimension scoring rubric. Drawn from 7 Fletch before/after examples. | CommandBar, LoneScale, UserGems, Altura, DinMo, Concierge AI, Omnibound |
+| [[concepts/homepage-rubric]] | Six-dimension scoring rubric for evaluating B2B SaaS homepages: hero clarity, audience mapping, problem clarity, value clarity, competitive POV, proof & social validation. Each dimension has 1-5 scoring guide with calibration examples from the Fletch corpus and Strata client work. | Avoca, TeamOhana, Agency, CommandBar, LoneScale, Concierge AI |
 
 ## Playbooks (4)
 

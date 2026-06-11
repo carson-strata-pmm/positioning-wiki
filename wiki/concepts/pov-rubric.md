@@ -233,7 +233,7 @@ Transitions that use connective language ("as a result," "therefore," "but") wit
 ## How This Rubric Differs From Other Document Types
 
 - **Messaging Framework rubric** evaluates structural completeness, pillar construction, buyer specificity, and competitive clarity. See [[concepts/messaging-framework-rubric]].
-- **Homepage rubric** evaluates above-the-fold clarity, page architecture, and compressed narrative expression. See [[concepts/homepage-rubric]] (forthcoming).
+- **Homepage rubric** evaluates hero clarity, audience mapping, problem clarity, value clarity, competitive POV, and proof placement. See [[concepts/homepage-rubric]].
 - **Pitch Deck rubric** evaluates slide-level clarity, narrative flow across slides, and proof structure. See [[concepts/pitch-deck-rubric]] (forthcoming).
 
 ## Related Concepts
